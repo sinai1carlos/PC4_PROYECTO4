@@ -1,0 +1,146 @@
+[
+  {
+    "id": "gold_art_3",
+    "articulo": "3",
+    "texto_a": "Toda persona tiene el goce de los derechos civiles, salvo las excepciones expresamente\nestablecidas por ley.(*)",
+    "texto_b": "Capacidad jurídica\nToda persona tiene capacidad jurídica para el goce y ejercicio de sus derechos.\nLa capacidad de ejercicio solo puede ser restringida por ley. Las personas con discapacidad tienen\ncapacidad de ejercicio en igualdad de condiciones en todos los aspectos de la vida.”\nPROCESOS CONSTITUCIONALES",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 da goce de derechos como regla general sin distinguir capacidad de ejercicio; V2 reconoce expresamente capacidad de ejercicio plena a personas con discapacidad. V1 permitía restringir capacidad de ejercicio sin la salvaguarda que V2 introduce - son incompatibles en el tratamiento de la capacidad de personas con discapacidad."
+  },
+  {
+    "id": "gold_art_10",
+    "articulo": "10",
+    "texto_a": "El jefe del establecimiento de salud o el del servicio de necropsias donde se encuentre un cadáver\npuede disponer de parte de éste para la conservación o prolongación de la vida humana, previo conocimiento\nde los parientes a que se refiere el artículo 13. No procede la disposición si existe oposición de éstos,\nmanifestada dentro del plazo, circunstancias y responsabilidades que fija la ley de la materia.\nLos mismos funcionarios pueden disponer del cadáver no identificado o abandonado, para los fines del artículo\n8, de conformidad con la ley de la materia.(*)",
+    "texto_b": "El jefe del establecimiento de salud o el del servicio de necropsias donde se encuentre un\ncadáver puede disponer de parte de éste para la conservación o prolongación de la vida humana, con\nconocimiento de los parientes a que se refiere el artículo 13.\nLos mismos funcionarios pueden disponer del cadáver no identificado o abandonado, para los fines del\nartículo 8, de conformidad con la ley de la materia” .\nPROCESOS CONSTITUCIONALES\nValidez de obligación de sometimiento a examen médico",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 exige 'previo conocimiento' de parientes Y permite oposición de éstos (control previo y veto). V2 solo exige 'conocimiento' sin mencionar derecho de oposición - cambia el régimen de control familiar sobre disposición del cadáver."
+  },
+  {
+    "id": "gold_art_20",
+    "articulo": "20",
+    "texto_a": "Al hijo matrimonial le corresponden el primer apellido del padre y el primero de la madre.(*)",
+    "texto_b": "Apellidos del hijo\nAl hijo le corresponde el primer apellido del padre y el primero de la madre.\"(*)",
+    "etiqueta_real": "ENTAILMENT",
+    "justificacion": "Mismo contenido normativo (apellido paterno + materno), solo cambia terminología de 'hijo matrimonial' a 'hijo' (neutralidad de filiación). No hay incompatibilidad de prescripción."
+  },
+  {
+    "id": "gold_art_21",
+    "articulo": "21",
+    "texto_a": "Al hijo extramatrimonial le corresponden los apellidos del progenitor que lo haya reconocido. Si es\nreconocido por ambos lleva el primer apellido de los dos.\nRige la misma regla en caso de filiación por declaración judicial.(*)",
+    "texto_b": "Inscripción del nacimiento\nCuando el padre o la madre efectúe separadamente la inscripción del nacimiento del hijo nacido fuera del\nvínculo matrimonial, podrá revelar el nombre de la persona con quien lo hubiera tenido. En este supuesto, el hijo\nllevará el apellido del padre o de la madre que lo inscribió, así como del presunto progenitor, en este último caso\nno establece vínculo de filiación.\nLuego de la inscripción, dentro de los treinta (30) días, el registrador, bajo responsabilidad, pondrá en\nconocimiento del presunto progenitor tal hecho, de conformidad con el reglamento.\nCuando la madre no revele la identidad del padre, podrá inscribir a su hijo con sus apellidos.” (*)",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "V1 regula reglas generales de apellidos del hijo extramatrimonial. V2 regula el procedimiento de inscripción cuando se hace separadamente. Tratan supuestos de hecho distintos, no son ni equivalentes ni contradictorios."
+  },
+  {
+    "id": "gold_art_34",
+    "articulo": "34",
+    "texto_a": "Se puede designar domicilio especial para la ejecución de actos jurídicos. Esta designación sólo\nimplica sometimiento a la jurisdicción correspondiente, salvo pacto distinto.(*)",
+    "texto_b": "Se puede designar domicilio especial para la ejecución de actos jurídicos. Esta designación sólo\nimplica sometimiento a la competencia territorial correspondiente, salvo pacto distinto.\"\nPROCESOS CONSTITUCIONALES",
+    "etiqueta_real": "ENTAILMENT",
+    "justificacion": "Cambio puramente terminológico: 'jurisdicción correspondiente' por 'competencia territorial correspondiente'. Mismo efecto jurídico (sometimiento al fuero del domicilio especial)."
+  },
+  {
+    "id": "gold_art_40",
+    "articulo": "40",
+    "texto_a": "El cambio de domicilio no puede oponerse a los acreedores si no ha sido puesto en su\nconocimiento mediante comunicación indubitable.(*)",
+    "texto_b": "Oposición al cambio de domicilio\nEl deudor deberá comunicar al acreedor el cambio de domicilio señalado para el cumplimiento de la prestación\nobligacional, dentro de los treinta (30) días de ocurrido el hecho, bajo responsabilidad civil y/o penal a que\nhubiere lugar.\nEl deudor y los terceros ajenos a la relación obligacional con el acreedor, están facultados para oponer a éste el\ncambio de su domicilio.\nLa oponibilidad al cambio de domicilio se efectuará mediante comunicación indubitable.”\nPersonas sin residencia habitual",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 establece que el cambio de domicilio no es oponible si no se comunica (carga pasiva). V2 invierte la carga: el deudor DEBE comunicar dentro de 30 días bajo responsabilidad civil/penal, y además ambas partes pueden oponer el cambio - régimen de oponibilidad distinto e incompatible con la regla general de V1."
+  },
+  {
+    "id": "gold_art_42",
+    "articulo": "42",
+    "texto_a": "Tienen plena capacidad de ejercicio de sus derechos civiles las personas que hayan cumplido\ndieciocho años de edad, salvo lo dispuesto en los artículos 43 y 44.(*)",
+    "texto_b": "Capacidad de ejercicio plena\nToda persona mayor de dieciocho años tiene plena capacidad de ejercicio. Esto incluye a todas las personas\ncon discapacidad, en igualdad de condiciones con las demás y en todos los aspectos de la vida,\nindependientemente de si usan o requieren de ajustes razonables o apoyos para la manifestación de su\nvoluntad.\nExcepcionalmente tienen plena capacidad de ejercicio los mayores de catorce años y menores de dieciocho\naños que contraigan matrimonio, o quienes ejerciten la paternidad.”(*)",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 condiciona la capacidad plena 'salvo lo dispuesto en los artículos 43 y 44' (que incluían a personas con discapacidad como incapaces). V2 declara expresamente que la capacidad plena incluye a personas con discapacidad 'independientemente' de apoyos. V1 y V2 prescriben consecuencias jurídicas opuestas sobre la capacidad de personas con discapacidad."
+  },
+  {
+    "id": "gold_art_45",
+    "articulo": "45",
+    "texto_a": "Los representantes legales de los incapaces ejercen los derechos civiles de éstos, según las\nnormas referentes a la patria potestad, tutela y curatela.(*)",
+    "texto_b": "Ajustes razonables y apoyo\nToda persona con discapacidad que requiera ajustes razonables o apoyo para el ejercicio de su capacidad\njurídica puede solicitarlos o designarlos de acuerdo a su libre elección.”\n“",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 asigna representación legal de incapaces a terceros (patria potestad, tutela, curatela) sin participación del afectado. V2 establece un sistema de apoyos que la persona con discapacidad solicita o designa 'de acuerdo a su libre elección' - sustituye el modelo de sustitución de voluntad por uno de apoyo a la voluntad, jurídicamente incompatibles."
+  },
+  {
+    "id": "gold_art_46",
+    "articulo": "46",
+    "texto_a": "La incapacidad de las personas mayores de dieciséis años cesa por matrimonio o por obtener\ntítulo oficial que les autorice para ejercer una profesión u oficio.(*) RECTIFICADO POR FE DE ERRATAS\nTratándose de mujeres mayores de catorce años cesa también por matrimonio.\nLa capacidad adquirida por matrimonio no se pierde por la terminación de éste.(*)",
+    "texto_b": "Capacidad adquirida por matrimonio o título oficial\nLa incapacidad de las personas mayores de dieciséis (16) años cesa por matrimonio o por obtener título\noficial que les autorice para ejercer una profesión u oficio.\nLa capacidad adquirida por matrimonio no se pierde por la terminación de este.\nTratándose de mayores de catorce (14) años cesa la incapacidad a partir del nacimiento del hijo o la hija,\npara realizar solamente los siguientes actos:\n1. Inscribir el nacimiento y reconocer a sus hijos e hijas.\n2. Demandar por gastos de embarazo y parto.\n3. Demandar y ser parte en los procesos de tenencia, alimentos y régimen de visitas a favor de sus hijos e\nhijas.\n4. Demandar y ser parte en los procesos de filiación extramatrimonial de sus hijos e hijas.\n5. Celebrar conciliaciones extrajudiciales a favor de sus hijos e hijas.\n6. Solicitar su inscripción en el Registro Único de Identificación de Personas Naturales, tramitar la expedición\ny obtener su Documento Nacional de Identidad.\n7. Impugnar judicialmente la paternidad.»(*)",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "V2 mantiene la regla de V1 (cesación de incapacidad por matrimonio/título) pero AGREGA supuestos nuevos para mayores de 14 años. No hay contradicción en lo común; la parte agregada es información adicional no presente en V1, por lo que la relación es de ampliación/neutral más que de equivalencia o contradicción total."
+  },
+  {
+    "id": "gold_art_47",
+    "articulo": "47",
+    "texto_a": "Cuando una persona no se halla en el lugar de su domicilio y se carece de noticias sobre su\nparadero, el juez de primera instancia del último domicilio o del lugar donde se encuentren sus bienes puede\nproceder, a petición de parte interesada o del Ministerio Público, a la designación de curador interino.(*)",
+    "texto_b": "Cuando una persona no se halla en el lugar de su domicilio y han transcurrido más de sesenta\ndías sin noticias sobre su paradero, cualquier familiar hasta el cuarto grado de consanguinidad o afinidad,\nexcluyendo el más próximo al más remoto, pueden solicitar la designación de curador interino. También puede\nsolicitarlo quien invoque legítimo interés en los negocios o asuntos del desaparecido, con citación de los\nfamiliares conocidos y del Ministerio Público. La solicitud se tramita como proceso no contencioso.\nNo procede la designación de curador si el desaparecido tiene representante o mandatario con facultades\nsuficientes inscritas en el registro público.\"",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 no exige plazo mínimo de ausencia para solicitar curador interino y solo legitima a 'parte interesada o Ministerio Público'. V2 exige expresamente 'más de sesenta días sin noticias' como condición Y amplía la legitimación a familiares hasta cuarto grado. Los requisitos de procedencia son incompatibles (V1 no exige plazo; V2 sí lo exige como condición)."
+  },
+  {
+    "id": "gold_art_60",
+    "articulo": "60",
+    "texto_a": "En los casos de los incisos 1 y 2 del artículo 59 se restituye a su titular el patrimonio, en el estado\nen que se encuentre. La resolución es dictada dentro del procedimiento de declaración judicial de ausencia.\nEn los casos de los incisos 3 y 4 del artículo 59 se procede a la apertura de la sucesión.(*)",
+    "texto_b": "En los casos de los incisos 1 y 2 del artículo 59 se restituye a su titular el patrimonio, en el estado\nen que se encuentre. La petición se tramita como proceso no contencioso con citación de quienes solicitaron la\ndeclaración de ausencia.\nEn los casos de los incisos 3 y 4 del artículo 59, se procede a la apertura de la sucesión\".\nTITULO VII\nFin de la Persona\nCAPITULO PRIMERO\nMuerte",
+    "etiqueta_real": "ENTAILMENT",
+    "justificacion": "Mismo efecto sustantivo (restitución del patrimonio); solo cambia la vía procesal de tramitación ('dentro del procedimiento de declaración judicial de ausencia' a 'proceso no contencioso'). No hay incompatibilidad de fondo."
+  },
+  {
+    "id": "gold_art_67",
+    "articulo": "67",
+    "texto_a": "La existencia de la persona cuya muerte hubiere sido judicialmente declarada debe ser reconocida\na solicitud de ella, de cualquier interesado o del Ministerio Público, dentro del mismo proceso, con citación de\nquienes intervinieron en éste y sin más trámite que la prueba de la supervivencia.(*)",
+    "texto_b": "La existencia de la persona cuya muerte hubiera sido judicialmente declarada, puede ser\nreconocida a solicitud de ella, de cualquier interesado, o del Ministerio Público. La pretensión se tramita como\nproceso no contencioso, con citación de quienes solicitaron la declaración de muerte presunta\".\nEfectos sobre el nuevo matrimonio",
+    "etiqueta_real": "ENTAILMENT",
+    "justificacion": "Mismo contenido normativo (reconocimiento de existencia de persona declarada muerta); cambia terminología procesal ('sin más trámite que la prueba de supervivencia' a 'proceso no contencioso'). Consistente con la reforma general del Código Procesal Civil de 1993."
+  },
+  {
+    "id": "gold_art_95",
+    "articulo": "95",
+    "texto_a": "La Asociación se disuelve por la declaración de quiebra.\nEn caso de suspensión de pagos, el consejo directivo debe solicitar la declaración de quiebra de la asociación,\nconforme a la ley de la materia y bajo responsabilidad ante los acreedores por los daños y perjuicios que\nresultaren por la omisión.(*)",
+    "texto_b": "La Asociación se disuelve por liquidación, según lo acordado por su respectiva Junta de\nAcreedores de conformidad con la ley de la materia.\nEn caso de pérdidas acumuladas, deducidas las reservas superiores al tercio del capital social pagado, el\nConsejo Directivo debe solicitar el inicio del Procedimiento Concursal Ordinario de la asociación, conforme a la\nley de la materia y bajo responsabilidad ante los acreedores por los daños y perjuicios que resultaren por la\nomisión.\"\nDisolución por atentar contra orden público",
+    "etiqueta_real": "CONTRADICTION",
+    "justificacion": "V1 establece causal de disolución por 'declaración de quiebra' bajo Ley de Quiebras. V2 establece causal por 'liquidación según Junta de Acreedores' bajo régimen concursal (Ley 27809). Son regímenes legales distintos e incompatibles: la quiebra (figura derogada) no equivale al procedimiento concursal ordinario vigente."
+  },
+  {
+    "id": "gold_art_96",
+    "articulo": "96",
+    "texto_a": "El Ministerio Público puede pedir la disolución de la asociación a la Sala Civil de la Corte Superior\ndel distrito judicial respectivo, cuando sus fines o actividades sean contrarios al orden público o a las buenas\ncostumbres. La Sala, oyendo a las partes, resuelve la disolución dentro del plazo de quince días.\nA solicitud del Ministerio Público, la Sala puede ordenar la suspensión inmediata de las actividades de la\nasociación, mientras se resuelve acerca de su disolución.\nLa resolución, si no es apelable, se eleva en consulta a la Sala Civil de la Corte Suprema, la que oyendo a las\npartes, resuelve dentro de un plazo no mayor de quince días.(*)",
+    "texto_b": "El Ministerio Público puede solicitar judicialmente la disolución de la asociación cuyas actividades\no fines sean o resulten contrarios al orden público o a las buenas costumbres.\nLa demanda se tramita como proceso abreviado, considerando como parte demandada a la asociación.\nCualquier asociado está legitimado para intervenir en el proceso. La sentencia no apelada se eleva en consulta\na la Corte Superior.\nEn cualquier estado del proceso puede el Juez dictar medidas cautelares suspendiendo total o parcialmente las\nactividades de la asociación, o designando un interventor de las mismas.\"\nDisolución por falta de norma estatutaria",
+    "etiqueta_real": "ENTAILMENT",
+    "justificacion": "Mismo efecto sustantivo (disolución de asociación contraria al orden público a pedido del Ministerio Público); cambia la vía procesal de 'Sala Civil con plazo de 15 días' a 'proceso abreviado'. Consistente con adecuación a normas procesales posteriores."
+  },
+  {
+    "id": "gold_neutral_1_80",
+    "articulo": "1 vs 80",
+    "texto_a": "La persona humana es sujeto de derecho desde su nacimiento.\nLa vida humana comienza con la concepción. El concebido es sujeto de derecho para todo cuanto le favorece.\nLa atribución de derechos patrimoniales está condicionada a que nazca vivo.",
+    "texto_b": "La asociación es una organización estable de personas naturales o jurídicas, o de ambas, que a\ntravés de una actividad común persigue un fin no lucrativo.\nPROCESOS CONSTITUCIONALES",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "El Art. 1 regula el inicio de la persona humana (nacimiento/concepción); el Art. 80 regula la constitución de asociaciones. Tratan instituciones jurídicas completamente distintas sin relación de implicación ni contradicción."
+  },
+  {
+    "id": "gold_neutral_5_70",
+    "articulo": "5 vs 70",
+    "texto_a": "El derecho a la vida, a la integridad física, a la libertad, al honor y demás inherentes a la persona\nhumana son irrenunciables y no pueden ser objeto de cesión. Su ejercicio no puede sufrir limitación voluntaria,\nsalvo lo dispuesto en el artículo 6.\nActos de disposición del propio cuerpo",
+    "texto_b": "Los registros del estado civil son públicos. En ellos se inscriben los nacimientos, los matrimonios y\nlas defunciones.\nEl reglamento de dichos registros determina los demás actos inscribibles conforme a ley.(*)",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "El Art. 5 regula derechos de la personalidad (vida, integridad); el Art. 70 regula los registros del estado civil. No hay relación lógica directa entre ambos preceptos."
+  },
+  {
+    "id": "gold_neutral_42_96",
+    "articulo": "42 vs 96",
+    "texto_a": "Capacidad de ejercicio plena\nToda persona mayor de dieciocho años tiene plena capacidad de ejercicio. Esto incluye a todas las personas\ncon discapacidad, en igualdad de condiciones con las demás y en todos los aspectos de la vida,\nindependientemente de si usan o requieren de ajustes razonables o apoyos para la manifestación de su\nvoluntad.\nExcepcionalmente tienen plena capacidad de ejercicio los mayores de catorce años y menores de dieciocho\naños que contraigan matrimonio, o quienes ejerciten la paternidad.”(*)",
+    "texto_b": "El Ministerio Público puede solicitar judicialmente la disolución de la asociación cuyas actividades\no fines sean o resulten contrarios al orden público o a las buenas costumbres.\nLa demanda se tramita como proceso abreviado, considerando como parte demandada a la asociación.\nCualquier asociado está legitimado para intervenir en el proceso. La sentencia no apelada se eleva en consulta\na la Corte Superior.\nEn cualquier estado del proceso puede el Juez dictar medidas cautelares suspendiendo total o parcialmente las\nactividades de la asociación, o designando un interventor de las mismas.\"\nDisolución por falta de norma estatutaria",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "El Art. 42 regula capacidad de ejercicio de personas naturales; el Art. 96 regula disolución judicial de asociaciones. Distinto sujeto y distinta materia regulada."
+  },
+  {
+    "id": "gold_neutral_47_21",
+    "articulo": "47 vs 21",
+    "texto_a": "Cuando una persona no se halla en el lugar de su domicilio y han transcurrido más de sesenta\ndías sin noticias sobre su paradero, cualquier familiar hasta el cuarto grado de consanguinidad o afinidad,\nexcluyendo el más próximo al más remoto, pueden solicitar la designación de curador interino. También puede\nsolicitarlo quien invoque legítimo interés en los negocios o asuntos del desaparecido, con citación de los\nfamiliares conocidos y del Ministerio Público. La solicitud se tramita como proceso no contencioso.\nNo procede la designación de curador si el desaparecido tiene representante o mandatario con facultades\nsuficientes inscritas en el registro público.\"",
+    "texto_b": "Inscripción del nacimiento\nCuando el padre o la madre efectúe separadamente la inscripción del nacimiento del hijo nacido fuera del\nvínculo matrimonial, podrá revelar el nombre de la persona con quien lo hubiera tenido. En este supuesto, el hijo\nllevará el apellido del padre o de la madre que lo inscribió, así como del presunto progenitor, en este último caso\nno establece vínculo de filiación.\nLuego de la inscripción, dentro de los treinta (30) días, el registrador, bajo responsabilidad, pondrá en\nconocimiento del presunto progenitor tal hecho, de conformidad con el reglamento.\nCuando la madre no revele la identidad del padre, podrá inscribir a su hijo con sus apellidos.” (*)",
+    "etiqueta_real": "NEUTRAL",
+    "justificacion": "El Art. 47 regula curatela por ausencia de domicilio conocido; el Art. 21 regula apellidos del hijo extramatrimonial. No comparten supuesto de hecho."
+  }
+]

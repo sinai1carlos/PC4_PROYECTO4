@@ -1,0 +1,702 @@
+[
+  {
+    "id": "cc_art_1",
+    "articulo": "1",
+    "texto": "La persona humana es sujeto de derecho desde su nacimiento.\nLa vida humana comienza con la concepción. El concebido es sujeto de derecho para todo cuanto le favorece.\nLa atribución de derechos patrimoniales está condicionada a que nazca vivo.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_2",
+    "articulo": "2",
+    "texto": "La mujer puede solicitar judicialmente el reconocimiento de su embarazo o del parto, con citación\nde las personas que tengan interés en el nacimiento.\n\" La solicitud se tramita como prueba anticipada, con citación de las personas que por indicación de la\nsolicitante o a criterio del Juez, puedan tener derechos que resulten afectados. El Juez puede ordenar de oficio\nla actuación de los medios probatorios que estime pertinentes. En este proceso no se admite oposición.\"(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_3",
+    "articulo": "3",
+    "texto": "Capacidad jurídica\nToda persona tiene capacidad jurídica para el goce y ejercicio de sus derechos.\nLa capacidad de ejercicio solo puede ser restringida por ley. Las personas con discapacidad tienen\ncapacidad de ejercicio en igualdad de condiciones en todos los aspectos de la vida.”\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_4",
+    "articulo": "4",
+    "texto": "El varón y la mujer tienen igual capacidad de goce y de ejercicio de los derechos civiles.\nPROCESOS CONSTITUCIONALES\nIrrenunciabilidad de los derechos fundamentales",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_5",
+    "articulo": "5",
+    "texto": "El derecho a la vida, a la integridad física, a la libertad, al honor y demás inherentes a la persona\nhumana son irrenunciables y no pueden ser objeto de cesión. Su ejercicio no puede sufrir limitación voluntaria,\nsalvo lo dispuesto en el artículo 6.\nActos de disposición del propio cuerpo",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_6",
+    "articulo": "6",
+    "texto": "Los actos de disposición del propio cuerpo están prohibidos cuando ocasionen una disminución\npermanente de la integridad física o cuando de alguna manera sean contrarios al orden público o a las buenas\ncostumbres. Empero, son válidos si su exigencia corresponde a un estado de necesidad, de orden médico o\nquirúrgico o si están inspirados por motivos humanitarios.\nLos actos de disposición o de utilización de órganos y tejidos de seres humanos son regulados por la ley de la\nmateria.\nDonación de órganos o tejidos",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_7",
+    "articulo": "7",
+    "texto": "La donación de partes del cuerpo o de órganos o tejidos que no se regeneran no debe perjudicar\ngravemente la salud o reducir sensiblemente el tiempo de vida del donante. Tal disposición está sujeta a\nconsentimiento expreso y escrito del donante.\nDisposición del cuerpo pos morten",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_8",
+    "articulo": "8",
+    "texto": "Es válido el acto por el cual una persona dispone altruistamente de todo o parte de su cuerpo para\nque sea utilizado, después de su muerte, con fines de interés social o para la prolongación de la vida humana.\nLa disposición favorece sólo a la persona designada como beneficiaria o a instituciones científicas, docentes,\nhospitalarias o banco de órganos o tejidos, que no persigan fines de lucro.\nRevocación de la donación del cuerpo humano",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_9",
+    "articulo": "9",
+    "texto": "Es revocable, antes de su consumación, el acto por el cual una persona dispone en vida de parte\nde su cuerpo, de conformidad con el artículo 6. Es también revocable el acto por el cual la persona dispone,\npara después de su muerte, de todo o parte de su cuerpo.\nLa revocación no da lugar al ejercicio de acción alguna.\nDisposición del cadáver por entidad competente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_10",
+    "articulo": "10",
+    "texto": "El jefe del establecimiento de salud o el del servicio de necropsias donde se encuentre un\ncadáver puede disponer de parte de éste para la conservación o prolongación de la vida humana, con\nconocimiento de los parientes a que se refiere el artículo 13.\nLos mismos funcionarios pueden disponer del cadáver no identificado o abandonado, para los fines del\nartículo 8, de conformidad con la ley de la materia” .\nPROCESOS CONSTITUCIONALES\nValidez de obligación de sometimiento a examen médico",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_11",
+    "articulo": "11",
+    "texto": "Son válidas las estipulaciones por las que una persona se obliga a someterse a examen médico,\nsiempre que la conservación de su salud o aptitud síquica o física sea motivo determinante de la relación\ncontractual.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_12",
+    "articulo": "12",
+    "texto": "No son exigibles los contratos que tengan por objeto la realización de actos excepcionalmente\npeligrosos para la vida o la integridad física de una persona, salvo que correspondan a su actividad habitual y se\nadopten las medidas de previsión y seguridad adecuadas a las circunstancias.\nActos funerarios",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_13",
+    "articulo": "13",
+    "texto": "A falta de declaración hecha en vida, corresponde al cónyuge del difunto, a sus descendientes,\nascendientes o hermanos, excluyentemente y en este orden, decidir sobre la necropsia, la incineración y la\nsepultura sin perjuicio de las normas de orden público pertinentes.\nDerecho a la intimidad personal y familiar",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_14",
+    "articulo": "14",
+    "texto": "La intimidad de la vida personal y familiar no puede ser puesta de manifiesto sin el asentimiento de\nla persona o si ésta ha muerto, sin el de su cónyuge, descendientes, ascendientes o hermanos,\nexcluyentemente y en este orden.\nPROCESOS CONSTITUCIONALES\nDerecho a la imagen y voz",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_15",
+    "articulo": "15",
+    "texto": "La imagen y la voz de una persona no pueden ser aprovechadas sin autorización expresa de ella\no, si ha muerto, sin el asentimiento de su cónyuge, descendientes, ascendientes o hermanos, excluyentemente\ny en este orden.\nDicho asentimiento no es necesario cuando la utilización de la imagen y la voz se justifique por la notoriedad de\nla persona, por el cargo que desempeñe, por hechos de importancia o interés público o por motivos de índole\ncientífica, didáctica o cultural y siempre que se relacione con hechos o ceremonias de interés general que se\ncelebren en público. No rigen estas excepciones cuando la utilización de la imagen o la voz atente contra el\nhonor, el decoro o la reputación de la persona a quien corresponden.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_16",
+    "articulo": "16",
+    "texto": "La correspondencia epistolar, las comunicaciones de cualquier género o las grabaciones de la voz,\ncuando tengan carácter confidencial o se refieran a la intimidad de la vida personal y familiar, no pueden ser\ninterceptadas o divulgadas sin el asentimiento del autor y, en su caso, del destinatario. La publicación de las\nmemorias personales o familiares, en iguales circunstancias, requiere la autorización del autor.\nMuertos el autor o el destinatario, según los casos, corresponde a los herederos el derecho de otorgar el\nrespectivo asentimiento. Si no hubiese acuerdo entre los herederos, decidirá el juez.\nLa prohibición de la publicación póstuma hecha por el autor o el destinatario no puede extenderse más allá de\ncincuenta años a partir de su muerte.\nDefensa de los derechos de la persona",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_17",
+    "articulo": "17",
+    "texto": "La violación de cualquiera de los derechos de la persona a que se refiere este título, confiere al\nagraviado o a sus herederos acción para exigir la cesación de los actos lesivos.\nLa responsabilidad es solidaria.\nProtección de los derechos de autor e inventor",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_18",
+    "articulo": "18",
+    "texto": "Los derechos del autor o del inventor, cualquiera sea la forma o modo de expresión de su obra,\ngozan de protección jurídica de conformidad con la ley de la materia.\nTITULO III\nNombre\nDerecho al nombre",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_19",
+    "articulo": "19",
+    "texto": "Toda persona tiene el derecho y el deber de llevar un nombre. Este incluye los apellidos.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_20",
+    "articulo": "20",
+    "texto": "Apellidos del hijo\nAl hijo le corresponde el primer apellido del padre y el primero de la madre.\"(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_21",
+    "articulo": "21",
+    "texto": "Inscripción del nacimiento\nCuando el padre o la madre efectúe separadamente la inscripción del nacimiento del hijo nacido fuera del\nvínculo matrimonial, podrá revelar el nombre de la persona con quien lo hubiera tenido. En este supuesto, el hijo\nllevará el apellido del padre o de la madre que lo inscribió, así como del presunto progenitor, en este último caso\nno establece vínculo de filiación.\nLuego de la inscripción, dentro de los treinta (30) días, el registrador, bajo responsabilidad, pondrá en\nconocimiento del presunto progenitor tal hecho, de conformidad con el reglamento.\nCuando la madre no revele la identidad del padre, podrá inscribir a su hijo con sus apellidos.” (*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_22",
+    "articulo": "22",
+    "texto": "El adoptado lleva los apellidos del adoptante o adoptantes.\n\" El hijo de uno de los cónyuges o concubinos puede ser adoptado por el otro. En tal caso, lleva como primer\napellido el del padre adoptante y como segundo el de la madre biológica o, el primer apellido del padre biológico\ny el primer apellido de la madre adoptante, según sea el caso.” (*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_23",
+    "articulo": "23",
+    "texto": "El recién nacido cuyos progenitores son desconocidos debe ser inscrito con el nombre adecuado\nque le asigne el registrador del estado civil.\nDerecho de la mujer a llevar el apellido del marido",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_24",
+    "articulo": "24",
+    "texto": "La mujer tiene derecho a llevar el apellido del marido agregado al suyo y a conservarlo mientras\nno contraiga nuevo matrimonio. Cesa tal derecho en caso de divorcio o nulidad de matrimonio.\nTratándose de separación de cuerpos, la mujer conserva su derecho a llevar el apellido del marido. En caso de\ncontroversia resuelve el juez.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_25",
+    "articulo": "25",
+    "texto": "La prueba referente al nombre resulta de su respectiva inscripción en los registros de estado civil.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_26",
+    "articulo": "26",
+    "texto": "Toda persona tiene derecho a exigir que se le designe por su nombre.\nCuando se vulnere este derecho puede pedirse la cesación del hecho violatorio y la indemnización que\ncorresponda.\nNulidad de convenios sobre el nombre",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_27",
+    "articulo": "27",
+    "texto": "Es nulo el convenio relativo al nombre de una persona natural, salvo para fines publicitarios, de\ninterés social y los que establece la ley.\nIndemnización por usurpación de nombre",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_28",
+    "articulo": "28",
+    "texto": "Nadie puede usar nombre que no le corresponde. El que es perjudicado por la usurpación de su\nnombre tiene acción para hacerla cesar y obtener la indemnización que corresponda.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_29",
+    "articulo": "29",
+    "texto": "Nadie puede cambiar su nombre ni hacerle adiciones, salvo por motivos justificados y mediante\nautorización judicial, debidamente publicada e inscrita.\nEl cambio o adición del nombre alcanza, si fuere el caso, al cónyuge y a los hijos menores de edad.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_30",
+    "articulo": "30",
+    "texto": "El cambio o adición del nombre no altera la condición civil de quien lo obtiene ni constituye prueba\nde filiación.\nImpugnación judicial por cambio o adición de nombre",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_31",
+    "articulo": "31",
+    "texto": "La persona perjudicada por un cambio o adición de nombre puede impugnarlo judicialmente.\nProtección jurídica del seudónimo",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_32",
+    "articulo": "32",
+    "texto": "El seudónimo, cuando adquiere la importancia del nombre, goza de la misma protección jurídica\ndispensada a éste.\nTITULO IV\nDomicilio\nDomicilio",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_33",
+    "articulo": "33",
+    "texto": "El domicilio se constituye por la residencia habitual de la persona en un lugar.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_34",
+    "articulo": "34",
+    "texto": "Se puede designar domicilio especial para la ejecución de actos jurídicos. Esta designación sólo\nimplica sometimiento a la competencia territorial correspondiente, salvo pacto distinto.\"\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_35",
+    "articulo": "35",
+    "texto": "A la persona que vive alternativamente o tiene ocupaciones habituales en varios lugares se le\nconsidera domiciliada en cualquiera de ellos.\nDomicilio conyugal",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_36",
+    "articulo": "36",
+    "texto": "El domicilio conyugal es aquel en el cual los cónyuges viven de consuno o, en su defecto, el último\nque compartieron.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_37",
+    "articulo": "37",
+    "texto": "Los incapaces tienen por domicilio el de sus representantes legales.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_38",
+    "articulo": "38",
+    "texto": "Los funcionarios públicos están domiciliados en el lugar donde ejercen sus funciones, sin perjuicio,\nen su caso, de lo dispuesto en el artículo 33.\nEl domicilio de las personas que residen temporalmente en el extranjero, en ejercicio de funciones del Estado o\npor otras causas, es el último que hayan tenido en el territorio nacional.\nCambio de domicilio",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_39",
+    "articulo": "39",
+    "texto": "El cambio de domicilio se realiza por el traslado de la residencia habitual a otro lugar.\nComunicación a terceros del cambio de domicilio",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_40",
+    "articulo": "40",
+    "texto": "Oposición al cambio de domicilio\nEl deudor deberá comunicar al acreedor el cambio de domicilio señalado para el cumplimiento de la prestación\nobligacional, dentro de los treinta (30) días de ocurrido el hecho, bajo responsabilidad civil y/o penal a que\nhubiere lugar.\nEl deudor y los terceros ajenos a la relación obligacional con el acreedor, están facultados para oponer a éste el\ncambio de su domicilio.\nLa oponibilidad al cambio de domicilio se efectuará mediante comunicación indubitable.”\nPersonas sin residencia habitual",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_41",
+    "articulo": "41",
+    "texto": "A la persona que no tiene residencia habitual se le considera domiciliada en el lugar donde se\nencuentre.\nTITULO V\nCapacidad e Incapacidad de Ejercicio\nPlena capacidad de ejercicio",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_42",
+    "articulo": "42",
+    "texto": "Capacidad de ejercicio plena\nToda persona mayor de dieciocho años tiene plena capacidad de ejercicio. Esto incluye a todas las personas\ncon discapacidad, en igualdad de condiciones con las demás y en todos los aspectos de la vida,\nindependientemente de si usan o requieren de ajustes razonables o apoyos para la manifestación de su\nvoluntad.\nExcepcionalmente tienen plena capacidad de ejercicio los mayores de catorce años y menores de dieciocho\naños que contraigan matrimonio, o quienes ejerciten la paternidad.”(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_43",
+    "articulo": "43",
+    "texto": "Son absolutamente incapaces:\n1.- Los menores de dieciséis años, salvo para aquellos actos determinados por la ley. (*) RECTIFICADO POR\nFE DE ERRATAS\n2.- Los que por cualquier causa se encuentren privados de discernimiento.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_44",
+    "articulo": "44",
+    "texto": "Capacidad de ejercicio restringida\nTienen capacidad de ejercicio restringida:\"\n1.- Los mayores de dieciséis y menores de dieciocho años de edad.\n2.- Los retardados mentales.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_45",
+    "articulo": "45",
+    "texto": "Ajustes razonables y apoyo\nToda persona con discapacidad que requiera ajustes razonables o apoyo para el ejercicio de su capacidad\njurídica puede solicitarlos o designarlos de acuerdo a su libre elección.”\n“",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_46",
+    "articulo": "46",
+    "texto": "Capacidad adquirida por matrimonio o título oficial\nLa incapacidad de las personas mayores de dieciséis (16) años cesa por matrimonio o por obtener título\noficial que les autorice para ejercer una profesión u oficio.\nLa capacidad adquirida por matrimonio no se pierde por la terminación de este.\nTratándose de mayores de catorce (14) años cesa la incapacidad a partir del nacimiento del hijo o la hija,\npara realizar solamente los siguientes actos:\n1. Inscribir el nacimiento y reconocer a sus hijos e hijas.\n2. Demandar por gastos de embarazo y parto.\n3. Demandar y ser parte en los procesos de tenencia, alimentos y régimen de visitas a favor de sus hijos e\nhijas.\n4. Demandar y ser parte en los procesos de filiación extramatrimonial de sus hijos e hijas.\n5. Celebrar conciliaciones extrajudiciales a favor de sus hijos e hijas.\n6. Solicitar su inscripción en el Registro Único de Identificación de Personas Naturales, tramitar la expedición\ny obtener su Documento Nacional de Identidad.\n7. Impugnar judicialmente la paternidad.»(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 4
+  },
+  {
+    "id": "cc_art_47",
+    "articulo": "47",
+    "texto": "Cuando una persona no se halla en el lugar de su domicilio y han transcurrido más de sesenta\ndías sin noticias sobre su paradero, cualquier familiar hasta el cuarto grado de consanguinidad o afinidad,\nexcluyendo el más próximo al más remoto, pueden solicitar la designación de curador interino. También puede\nsolicitarlo quien invoque legítimo interés en los negocios o asuntos del desaparecido, con citación de los\nfamiliares conocidos y del Ministerio Público. La solicitud se tramita como proceso no contencioso.\nNo procede la designación de curador si el desaparecido tiene representante o mandatario con facultades\nsuficientes inscritas en el registro público.\"",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_48",
+    "articulo": "48",
+    "texto": "Normas que rigen la curatela del desaparecido\nLa curatela a que se contrae el artículo 47 se rige por las disposiciones de los artículos 564 a 618, en cuanto\nsean pertinentes.\nCAPITULO SEGUNDO\nDeclaración de Ausencia\nDeclaración judicial de ausencia",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_49",
+    "articulo": "49",
+    "texto": "Transcurridos dos años desde que se tuvo la última noticia del desaparecido, cualquiera que tenga\nlegítimo interés o el Ministerio Público pueden solicitar la declaración judicial de ausencia.\nEs competente el juez del último domicilio que tuvo el desaparecido o el del lugar donde se encuentre la mayor\nparte de sus bienes.\nPosesión temporal de los bienes del ausente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_50",
+    "articulo": "50",
+    "texto": "En la declaración judicial de ausencia se ordenará dar la posesión temporal de los bienes del\nausente a quienes serían sus herederos forzosos al tiempo de dictarla.\nSi no hubiere persona con esta calidad continuará, respecto a los bienes del ausente, la curatela establecida en\nel artículo 47.\nFacultades y límites del poseedor de bienes del ausente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_51",
+    "articulo": "51",
+    "texto": "La posesión temporal de los bienes del ausente, a que se refiere el artículo 50, debe ser precedida\nde la formación del respectivo inventario valorizado.\nEl poseedor tiene los derechos y obligaciones inherentes a la posesión y goza de los frutos con la limitación de\nreservar de éstos una parte igual a la cuota de libre disposición del ausente.\nIndisponibilidad de los bienes del ausente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_52",
+    "articulo": "52",
+    "texto": "Quienes hubieren obtenido la posesión temporal de los bienes del ausente no pueden enajenarlos\nni gravarlos, salvo casos de necesidad o utilidad con sujeción al artículo 56.\nInscripción de la declaración judicial de ausencia",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_53",
+    "articulo": "53",
+    "texto": "La declaración judicial de ausencia debe ser inscrita en el registro de mandatos y poderes para\nextinguir los otorgados por el ausente.\nDesignación del administrador judicial",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_54",
+    "articulo": "54",
+    "texto": "A solicitud de cualquiera que haya obtenido la posesión temporal de los bienes del ausente, se\nprocede a la designación de administrador judicial.\nDerechos y obligaciones del administrador judicial",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_55",
+    "articulo": "55",
+    "texto": "Son derechos y obligaciones del administrador judicial de los bienes del ausente:\n1.- Percibir los frutos.\n2.- Pagar las deudas del ausente y atender los gastos correspondientes al patrimonio que administra.\n3.- Reservar en cuenta bancaria, o con las seguridades que señale el juez, la cuota a que se refiere el artículo\n51.\n4.- Distribuir regularmente entre las personas que señala el artículo 50 los saldos disponibles, en proporción a\nsus eventuales derechos sucesorios.\n5.- Ejercer la representación judicial del ausente con las facultades especiales y generales que la ley confiere,\nexcepto las que importen actos de disposición.\n6.- Ejercer cualquier otra atribución no prevista, si fuere conveniente al patrimonio bajo su administración, previa\nautorización judicial.\n7.- Rendir cuenta de su administración en los casos señalados por la ley.\nAutorización judicial para disponer de los bienes del ausente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_56",
+    "articulo": "56",
+    "texto": "En caso de necesidad o utilidad y previa autorización judicial, el administrador puede enajenar o\ngravar bienes del ausente en la medida de lo indispensable.\nAplicación supletoria de normas de ordenamiento procesal",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_57",
+    "articulo": "57",
+    "texto": "En lo no previsto por los artículos 55 y 56 se aplican las disposiciones del Código de\nProcedimientos Civiles sobre administración judicial de bienes comunes.\nAlimentos para herederos forzosos del ausente",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_58",
+    "articulo": "58",
+    "texto": "El cónyuge del ausente u otros herederos forzosos económicamente dependientes de él, que no\nrecibieren rentas suficientes para atender a sus necesidades alimentarias, pueden solicitar al juez la asignación\nde una pensión, cuyo monto será señalado según la condición económica de los solicitantes y la cuantía del\npatrimonio afectado.\n\" Esta pretensión se tramita conforme al proceso sumarísimo de alimentos, en lo que resulte aplicable.\"(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_59",
+    "articulo": "59",
+    "texto": "Cesan los efectos de la declaración judicial de ausencia por:\n1.- Regreso del ausente.\n2.- Designación de apoderado con facultades suficientes, hecha por el ausente con posterioridad a la\ndeclaración.\n3.- Comprobación de la muerte del ausente.\n4.- Declaración judicial de muerte presunta.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_60",
+    "articulo": "60",
+    "texto": "En los casos de los incisos 1 y 2 del artículo 59 se restituye a su titular el patrimonio, en el estado\nen que se encuentre. La petición se tramita como proceso no contencioso con citación de quienes solicitaron la\ndeclaración de ausencia.\nEn los casos de los incisos 3 y 4 del artículo 59, se procede a la apertura de la sucesión\".\nTITULO VII\nFin de la Persona\nCAPITULO PRIMERO\nMuerte",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 3
+  },
+  {
+    "id": "cc_art_61",
+    "articulo": "61",
+    "texto": "La muerte pone fin a la persona.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_62",
+    "articulo": "62",
+    "texto": "Si no se puede probar cuál de dos o más personas murió primero, se las reputa muertas al mismo\ntiempo y entre ellas no hay trasmisión de derechos hereditarios.\nCAPITULO SEGUNDO\nDeclaración de Muerte Presunta\nProcedencia de declaración judicial de muerte presunta",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_63",
+    "articulo": "63",
+    "texto": "Procede la declaración de muerte presunta, sin que sea indispensable la de ausencia, a solicitud\nde cualquier interesado o del Ministerio Público en los siguientes casos:\n1.- Cuando hayan transcurrido diez años desde las últimas noticias del desaparecido o cinco si éste tuviere más\nde ochenta años de edad.\n2.- Cuando hayan transcurrido dos años si la desaparición se produjo en circunstancias constitutivas de peligro\nde muerte. El plazo corre a partir de la cesación del evento peligroso.\n3.- Cuando exista certeza de la muerte, sin que el cadáver sea encontrado o reconocido.\nEfectos de la declaración de muerte presunta",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_64",
+    "articulo": "64",
+    "texto": "La declaración de muerte presunta disuelve el matrimonio del desaparecido. Dicha resolución se\ninscribe en el registro de defunciones.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_65",
+    "articulo": "65",
+    "texto": "En la resolución que declara la muerte presunta se indica la fecha probable y, de ser posible, el\nlugar de la muerte del desaparecido.\nImprocedencia de la declaración de muerte presunta",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_66",
+    "articulo": "66",
+    "texto": "El juez que considere improcedente la declaración de muerte presunta puede declarar la ausencia.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_67",
+    "articulo": "67",
+    "texto": "La existencia de la persona cuya muerte hubiera sido judicialmente declarada, puede ser\nreconocida a solicitud de ella, de cualquier interesado, o del Ministerio Público. La pretensión se tramita como\nproceso no contencioso, con citación de quienes solicitaron la declaración de muerte presunta\".\nEfectos sobre el nuevo matrimonio",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_68",
+    "articulo": "68",
+    "texto": "El reconocimiento de existencia no invalida el nuevo matrimonio que hubiere contraído el cónyuge.\nFacultad de reivindicar los bienes",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_69",
+    "articulo": "69",
+    "texto": "El reconocimiento de existencia faculta a la persona para reivindicar sus bienes, conforme a ley.\nTITULO VIII\nRegistros del Estado Civil\nActos inscribibles en los registros del estado civil",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_70",
+    "articulo": "70",
+    "texto": "Los registros del estado civil son públicos. En ellos se inscriben los nacimientos, los matrimonios y\nlas defunciones.\nEl reglamento de dichos registros determina los demás actos inscribibles conforme a ley.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_71",
+    "articulo": "71",
+    "texto": "Habrá registros a cargo de las autoridades o funcionarios competentes:\n1. En todos los concejos municipales.\n2. En los consulados del Perú.\n3. En otros lugares donde fueren necesarios, por aplicación de la ley de la materia.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_72",
+    "articulo": "72",
+    "texto": "Las inscripciones se extienden en el registro del lugar donde ocurran los respectivos hechos, con\nlas formalidades que determina la ley.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_73",
+    "articulo": "73",
+    "texto": "Las partidas de inscripción prueban los hechos a que se refieren, salvo que se declare\njudicialmente su nulidad.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_74",
+    "articulo": "74",
+    "texto": "Pueden hacerse rectificaciones o adiciones en las partidas de registro sólo en virtud de resolución\njudicial, salvo disposición distinta de la ley.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_75",
+    "articulo": "75",
+    "texto": "La persona afectada por la destrucción o pérdida de las partidas de inscripción puede probar los\nactos inscribibles por los medios que permite la ley, siempre que se acredite su inexistencia en el registro\nrespectivo.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_76",
+    "articulo": "76",
+    "texto": "La existencia, capacidad, régimen, derechos, obligaciones y fines de la persona jurídica, se\ndeterminan por las disposiciones del presente Código o de las leyes respectivas.\nLa persona jurídica de derecho público interno se rige por la ley de su creación.\nPROCESOS CONSTITUCIONALES\nInicio de la persona jurídica",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_77",
+    "articulo": "77",
+    "texto": "La existencia de la persona jurídica de derecho privado comienza el día de su inscripción en el\nregistro respectivo, salvo disposición distinta de la ley.\nLa eficacia de los actos celebrados en nombre de la persona jurídica antes de su inscripción queda subordinada\na este requisito y a su ratificación dentro de los tres meses siguientes de haber sido inscrita.\nSi la persona jurídica no se constituye o no se ratifican los actos realizados en nombre de ella, quienes los\nhubieran celebrado son ilimitada y solidariamente responsables frente a terceros.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_78",
+    "articulo": "78",
+    "texto": "La persona jurídica tiene existencia distinta de sus miembros y ninguno de éstos ni todos ellos\ntienen derecho al patrimonio de ella ni están obligados a satisfacer sus deudas.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_79",
+    "articulo": "79",
+    "texto": "La persona jurídica miembro de otra debe indicar quién la representa ante ésta.\nTITULO II\nAsociación",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_80",
+    "articulo": "80",
+    "texto": "La asociación es una organización estable de personas naturales o jurídicas, o de ambas, que a\ntravés de una actividad común persigue un fin no lucrativo.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_81",
+    "articulo": "81",
+    "texto": "El estatuto debe constar por escritura pública, salvo disposición distinta de la ley.\nSi la asociación es religiosa, su régimen interno se regula de acuerdo con el estatuto aprobado por la\ncorrespondiente autoridad eclesiástica.\nPROCESOS CONSTITUCIONALES",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_82",
+    "articulo": "82",
+    "texto": "El estatuto de la asociación debe expresar:\n1.- La denominación, duración y domicilio.\n2.- Los fines.\n3.- Los bienes que integran el patrimonio social.\n4.- La constitución y funcionamiento de la asamblea general de asociados, consejo directivo y demás órganos\nde la asociación.\n5.- Las condiciones para la admisión, renuncia y exclusión de sus miembros.\n6.- Los derechos y deberes de los asociados.\n7.- Los requisitos para su modificación.\n8.- Las normas para la disolución y liquidación de la asociación y las relativas al destino final de sus bienes.\n9.- Los demás pactos y condiciones que se establezcan.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_83",
+    "articulo": "83",
+    "texto": "Toda asociación debe tener un libro de registro actualizado en que consten el nombre, actividad,\ndomicilio y fecha de admisión de cada uno de sus miembros, con indicación de los que ejerzan cargos de\nadministración o representación.\nLa asociación debe contar, asimismo, con libros de actas de las sesiones de asamblea general y de consejo\ndirectivo en los que constarán los acuerdos adoptados.\nLos libros a que se refiere el presente artículo se llevan con las formalidades de ley, bajo responsabilidad del\npresidente del consejo directivo de la asociación y de conformidad con los requisitos que fije el estatuto.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_84",
+    "articulo": "84",
+    "texto": "La asamblea general es el órgano supremo de la asociación.\nPROCESOS CONSTITUCIONALES\nConvocatoria",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_85",
+    "articulo": "85",
+    "texto": "La asamblea general es convocada por el presidente del consejo directivo de la asociación, en los\ncasos previstos en el estatuto, cuando lo acuerde dicho consejo directivo o cuando lo soliciten no menos de la\ndécima parte de los asociados.\nSi la solicitud de éstos no es atendida dentro de los quince días de haber sido presentada, o es denegada, la\nconvocatoria es hecha por el juez de primera instancia del domicilio de la asociación, a solicitud de los mismos\nasociados.\nDe la solicitud se corre traslado a la asociación por el plazo de tres días, y con la contestación o en rebeldía\nresuelve el juez en mérito del libro de registro. Procede el recurso de apelación en el efecto devolutivo.(*)",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_86",
+    "articulo": "86",
+    "texto": "La asamblea general elige a las personas que integran el consejo directivo, aprueba las cuentas y\nbalances, resuelve sobre la modificación del estatuto, la disolución de la asociación y los demás asuntos que no\nsean competencia de otros órganos.\nQuórum para adopción de acuerdos",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_87",
+    "articulo": "87",
+    "texto": "Para la validez de las reuniones de asamblea general se requiere, en primera convocatoria, la\nconcurrencia de más de la mitad de los asociados. En segunda convocatoria, basta la presencia de cualquier\nnúmero de asociados. Los acuerdos se adoptan con el voto de más de la mitad de los miembros concurrentes.\nPara modificar el estatuto o para disolver la asociación se requiere, en primera convocatoria, la asistencia de\nmás de la mitad de los asociados. Los acuerdos se adoptan con el voto de más de la mitad de los miembros\nconcurrentes. En segunda convocatoria, los acuerdos se adoptan con los asociados que asistan y que\nrepresenten no menos de la décima parte.\nLos asociados pueden ser representados en asamblea general, por otra persona. El estatuto puede disponer\nque el representante sea otro asociado.\nLa representación se otorga por escritura pública. También puede conferirse por otro medio escrito y sólo con\ncarácter especial para cada asamblea.\nDerecho de voto",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_88",
+    "articulo": "88",
+    "texto": "Ningún asociado tiene derecho por sí mismo a más de un voto.\nCarácter personalísimo de la calidad del asociado",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_89",
+    "articulo": "89",
+    "texto": "La calidad de asociado es inherente a la persona y no es trasmisible, salvo que lo permita el\nestatuto.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_90",
+    "articulo": "90",
+    "texto": "La renuncia de los asociados debe ser formulada por escrito.\nPago de cuotas adeudadas",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_91",
+    "articulo": "91",
+    "texto": "Los asociados renunciantes, los excluidos y los sucesores de los asociados muertos quedan\nobligados al pago de las cuotas que hayan dejado de abonar, no pudiendo exigir el reembolso de sus\naportaciones.\nImpugnación judicial de acuerdos",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_92",
+    "articulo": "92",
+    "texto": "Todo asociado tiene derecho a impugnar judicialmente los acuerdos que violen las disposiciones\nlegales o estatutarias.\nLas acciones impugnatorias deben ejercitarse en un plazo no mayor de sesenta días contados a partir de la\nfecha del acuerdo. Pueden ser interpuestas por los asistentes, si hubieran dejado constancia en acta de su\noposición al acuerdo, por los asociados no concurrentes y por los que hayan sido privados ilegítimamente de\nemitir su voto.",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_93",
+    "articulo": "93",
+    "texto": "Los asociados que desempeñen cargos directivos son responsables ante la asociación conforme a\nlas reglas de la representación, excepto aquellos que no hayan participado del acto causante del daño o que\ndejen constancia de su oposición.\nDisolución de pleno derecho",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_94",
+    "articulo": "94",
+    "texto": "La asociación se disuelve de pleno derecho cuando no pueda funcionar según su estatuto.\nDisolución por liquidación",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_95",
+    "articulo": "95",
+    "texto": "La Asociación se disuelve por liquidación, según lo acordado por su respectiva Junta de\nAcreedores de conformidad con la ley de la materia.\nEn caso de pérdidas acumuladas, deducidas las reservas superiores al tercio del capital social pagado, el\nConsejo Directivo debe solicitar el inicio del Procedimiento Concursal Ordinario de la asociación, conforme a la\nley de la materia y bajo responsabilidad ante los acreedores por los daños y perjuicios que resultaren por la\nomisión.\"\nDisolución por atentar contra orden público",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 4
+  },
+  {
+    "id": "cc_art_96",
+    "articulo": "96",
+    "texto": "El Ministerio Público puede solicitar judicialmente la disolución de la asociación cuyas actividades\no fines sean o resulten contrarios al orden público o a las buenas costumbres.\nLa demanda se tramita como proceso abreviado, considerando como parte demandada a la asociación.\nCualquier asociado está legitimado para intervenir en el proceso. La sentencia no apelada se eleva en consulta\na la Corte Superior.\nEn cualquier estado del proceso puede el Juez dictar medidas cautelares suspendiendo total o parcialmente las\nactividades de la asociación, o designando un interventor de las mismas.\"\nDisolución por falta de norma estatutaria",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 2
+  },
+  {
+    "id": "cc_art_97",
+    "articulo": "97",
+    "texto": "De no haberse previsto en el estatuto de la asociación normas para el caso en que no pueda\nseguir funcionando o para su disolución, se procede de conformidad con lo dispuesto en el artículo 599, inciso 2.\nDestino del patrimonio restante a la liquidación",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_98",
+    "articulo": "98",
+    "texto": "Disuelta la asociación y concluída la liquidación, el haber neto resultante es entregado a las\npersonas designadas en el estatuto, con exclusión de los asociados. De no ser posible, la Sala Civil de la Corte\nSuperior respectiva ordena su aplicación a fines análogos en interés de la comunidad, dándose preferencia a la\nprovincia donde tuvo su sede la asociación.\nTITULO III\nFundación\nNoción",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_99",
+    "articulo": "99",
+    "texto": "La fundación es una organización no lucrativa instituida mediante la afectación de uno o más\nbienes para la realización de objetivos de carácter religioso, asistencial, cultural u otros de interés social. (*)\nRECTIFICADO POR FE DE ERRATAS\nConstitución de la Fundación",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  },
+  {
+    "id": "cc_art_100",
+    "articulo": "100",
+    "texto": "La fundación se constituye mediante escritura pública, por una o varias personas naturales o\njurídicas, indistintamente, o por testamento.\nActo constitutivo",
+    "norma": "Código Civil Peruano (D.L. 295)",
+    "n_versiones_historicas": 1
+  }
+]
